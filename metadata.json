@@ -1,0 +1,6 @@
+{
+  "name": "Namalthalawa Vesak Invitation",
+  "description": "නාමල්තලාව වෙසක් කලාපය සඳහා වන ඩිජිටල් ඇරයුම්පත - Digital Invitation for Namalthalawa Vesak Zone 2026",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
